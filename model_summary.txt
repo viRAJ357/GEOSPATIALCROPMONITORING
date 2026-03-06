@@ -1,0 +1,20 @@
+PRECISION AGRICULTURE ML MODELS SUMMARY
+==================================================
+
+Project: Precision Agriculture ML System
+Date Saved: 2025-10-02
+
+MODEL PERFORMANCE:
+------------------------------
+• water_stress_model.pkl: Accuracy: 0.9867
+• disease_detection_model.pkl: Accuracy: 0.9700
+• soil_health_model.pkl: R² Score: 0.9608
+• irrigation_recommendation_model.pkl: Accuracy: 1.0000
+• nitrogen_recommendation_model.pkl: R² Score: 0.9997
+• crop_yield_prediction_model.pkl: R² Score: 0.9355, RMSE: 0.7603
+
+PREPROCESSING OBJECTS:
+------------------------------
+• label_encoders.pkl
+• feature_scaler.pkl
+• feature_columns.pkl
